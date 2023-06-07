@@ -1,1 +1,3 @@
-c'est une excellente format
+myConflictBranch
+c'est une excellente formationx
+
